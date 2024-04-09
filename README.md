@@ -29,7 +29,7 @@ To run the Bio_Stat project, the following dependencies are required:
 Follow these steps to set up and run the Bio_Stat project locally:
 
 1. **Clone the Repository**
-
+    https://github.com/DIvineJMd/Bio_stat_Inferance.git
 2. **Open Project in Android Studio:**
 - Launch Android Studio.
 - Select "Open an existing Android Studio project."
